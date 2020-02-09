@@ -32,4 +32,4 @@ Users are provided an RGB value and 3 or 6 colored buttons. Users are asked to t
   * [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) 
 
 ## Images
-![Functionality GIF]()
+![Functionality GIF](https://github.com/E-Huynh/RGB_game/blob/master/assets/RGB.gif?raw=true)
