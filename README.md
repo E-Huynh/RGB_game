@@ -9,7 +9,7 @@ Erik.W.Huynh@Gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/erik-huynh-228321196/)
 
-[Portfolio](https://e-huynh.github.io/updated_portfolio/)
+[Portfolio](https://e-huynh.github.io/portfolio-gram/)
 
 ## Project Description
 Test your knowledge of RGB color values by playing this game.
